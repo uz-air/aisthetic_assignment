@@ -54,6 +54,7 @@
             android:id="@+id/desc"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:minLines="5"
             android:text="@string/description1"
             android:textAppearance="@style/TextAppearance.MaterialComponents.Body1" />
     </LinearLayout>
