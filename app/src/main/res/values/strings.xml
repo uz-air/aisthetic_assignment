@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="heading">Make it personal</string>
+    <string name="desc_heading1">Choose your jewel box</string>
+    <string name="desc_heading2">Write your card</string>
+    <string name="desc_heading3">Choose your outfit</string>
+    <string name="desc_heading4">Make your ring</string>
+    <string name="desc_heading5">Make your Necklace</string>
+    <string name="description1">Choose your outfit that speaks to you, Select our signature Unsaid outfit , or customise your outfit with an artwork.</string>
+    <string name="description2">Explore card with custom poems commissioned from our favourite writers. Customise yours with a personal note</string>
+    <string name="description3">Choose your jewel box that speaks to you, Select our signature Unsaid jewel box , or customise your gift with an artwork.</string>
+    <string name="description4">Explore ring with custom designs commissioned from our favourite designers. Customise yours with a personal engraving</string>
+    <string name="description5">Explore Necklace with custom designs commissioned from our favourite designers. Customise yours with a personal engraving</string>
+</resources>
